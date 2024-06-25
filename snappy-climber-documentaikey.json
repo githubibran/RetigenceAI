@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "snappy-climber-198113",
+  "private_key_id": "f901ab4e43a540bb4df4f2aea5ba92f2e797e608",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZchOyQHkypB7K\nVrJ2gE64oi5GmxTCdlE0d2vM0kRNy/mNgoLHdgxriceCQKboBIWpWDGHLKTGo0It\nAniZEDbCCcaY5y/GDQeve/CFsRlwBJAPwBcTiKAPP5eA5T0/yC2QD4oGz+6JC6Xz\n6Xz7asy3eFi2pcxan/ouT7UsEwdc7z0oqPbh0kVxctNMtqDioySKHVY55d6V7UDp\n5d1BZ6yjdOEze8FGQQIrbT5nBQdFi0aTQ3tlaXJpvAgj7f2omc0g8gh2DNa/is+v\nnddOqL0bxLyXnG6Y3jhEaT/NQuacw20kheXuwJRBKBCvBZprdQoZted9iurZaY9c\nIV/NqmA1AgMBAAECggEAGOMxQaCGZ8nJuqysHl86JWUcl1QQ3md9TUKvR9W0wV97\ndtG7r2k8o3aB1uTwjUIqgahtxAxgH12cXpt/fufr0bXvMZ6Rl5BGdlZmUPDD/PCo\ngv13YLIwr7hzNLM5p24qwapbizZPbIfonzJ4FHkiggFxdhJXHj3DQJ6p9l+RuqdM\njieDR2zTjaCxY+ayqaQsi8biHAunMHneEvH+EEsdbQn2BJPgFeaNZJ64WJ9H5J8W\ngeqmrn8tlBSIHn+ow0EvXH45knVsu9j5eYVafvkZxBIfgopnrfYh2cSKJv0fBpGc\njXJObwO0eeOzzmVmNtiULhqh0oNQSY1DWNakMzGZ0QKBgQDOacmTWIQDoCZ3NTC3\nwCmFN4ddCXqyLLQqquuWgCcryMDCzFEG93D8EhRuCfKbS4QiNIhkKiImqO+TNdFd\nHiJabli1bFtyPpdgCcg+kT9PpyY0dSbmW8xaUyzYizrVBtCoGwtXxmNTVk4Qeckq\nWxg22qkZQpbsfj5EMFWRiarsKQKBgQC+TtUkiMkMqlxWx3Q4Man3X+TWw0zViYe7\nUln/aVROnI7Jje67FX1TGmp69CjLncNLaPNcRs5YPAJjTMqBty39QptMNKWM+3Lh\nZXAnnzVQ9cvIlEgg8iMgq1Ku0paxfIAXV6iVImBGvlDsJ91T5FFuz9vt1kFFihVX\n9Qqm2zOVLQKBgH2MTrU2o6Vo5bygN6+sTBThP45RU7XIBxXkvELgU/MHumdByw8H\ntks72/1KQ6w9dHMxrLvv/LGzE3VgyKVwzMhgUciXzc9hTsV1bbzQr8eNDWnez/hR\nYayW5rIXjYNBD+0P9gg/fO6VkgnnaXo/yiyjNzNME2xpJQpos8NADxxxAoGAViRW\n5GeqIbqHe5xi5gDM/7V/XxseD1Zmgwsew7cIu2CwXVmKo1Jx3QkLA8a7JJevy9Wg\nurcuNdBMAGjFDXw+K/JXW2JFQZCcCpyg7L5rIs9vw8Yi9A7GicYi8hFOtt41GNvL\n6l2aGMuS06Kj05J4reEWmwytlO2RBbRccvSr360CgYEAutHVv7yCuQjiJZgDMmc/\nvQmpC1BEnvOqjYu2iqxtCnub4Qn5LmVP2Bj1aZePRiiD2ei/22hTWThGvac0Ei3b\nw9J/NGbglKP5zs43bDHU3DzJgGbI8Ktj1+0kyumkywZWDq+9LhWhhsgG1kF3Ye2c\nGkabKxsP6osRPNTqx5Cl9bc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "documentaikey@snappy-climber-198113.iam.gserviceaccount.com",
+  "client_id": "117145201253647597528",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/documentaikey%40snappy-climber-198113.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
