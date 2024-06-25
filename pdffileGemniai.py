@@ -1,5 +1,4 @@
 import streamlit as st
-import tkinter as tk
 import base64
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part, FinishReason
