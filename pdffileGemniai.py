@@ -3,6 +3,7 @@ import base64
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part, FinishReason
 import vertexai.preview.generative_models as generative_models
+import os
 
 # Ensure the environment variable is set
 credentials_path = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
