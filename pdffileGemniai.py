@@ -3,12 +3,13 @@ import base64
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part, FinishReason
 import vertexai.preview.generative_models as generative_models
-import os
+from google.oauth2 import service_account
+from google.cloud import aiplatform
 
-# Ensure the environment variable is set
-credentials_path = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
-if not credentials_path:
-    raise ValueError("The GOOGLE_APPLICATION_CREDENTIALS environment variable is not set.")
+credentials = service_account.Credentials.from_service_account_file('')
+
+# Initialize the Vertex AI client with the credentials
+aiplatform.init(credentials=credentials)
 
 
 def generate(user_input):
