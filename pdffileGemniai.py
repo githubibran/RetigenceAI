@@ -3,8 +3,6 @@ import base64
 import vertexai
 from vertexai.generative_models import GenerativeModel, Part, FinishReason
 import vertexai.preview.generative_models as generative_models
-import os
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "snappy-climber-documentaikey.json"
 
 
 def generate(user_input):
