@@ -4,6 +4,11 @@ import vertexai
 from vertexai.generative_models import GenerativeModel, Part, FinishReason
 import vertexai.preview.generative_models as generative_models
 
+# Ensure the environment variable is set
+credentials_path = os.environ.get("GOOGLE_APPLICATION_CREDENTIALS")
+if not credentials_path:
+    raise ValueError("The GOOGLE_APPLICATION_CREDENTIALS environment variable is not set.")
+
 
 def generate(user_input):
   vertexai.init(project="snappy-climber-198113", location="us-central1")
